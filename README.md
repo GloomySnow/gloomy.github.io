@@ -1,2 +1,1 @@
-# gloomy.github.io
-Blog for GloomySnow
+# Welcome to Gloomy's blog.
